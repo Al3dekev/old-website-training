@@ -1,0 +1,69 @@
+
+body {
+	margin:0px;
+}
+
+.nav {
+	background-color: rgba(255,255,255,0.5);
+    list-style-type: none;
+    /* margin: 0px 450px 0px 450px; */
+    padding: 10px;
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0px; /* Position the navbar at the top of the page */
+	/* left:0px; */
+	right:0px;
+	text-align:center;
+    font-weight: bold;
+	border-radius:25%;
+	border:1px blue solid;
+    width: 350px;
+    max-width: 375px;
+}
+
+
+.nav1 {
+	color:green;
+}
+
+.nav2 {
+	text-decoration:none;
+	text-decoration:underline;
+	color:red;
+	font-size:22px;
+}
+
+.description{
+	text-align:center;
+	float: right;
+	margin: 190px 50px 0px 0px; /* prochainement faire un bouton de modif de descr. */
+	border: 1px black solid;
+	border-radius:25%;
+	max-width:250px;
+	width:250px;
+}
+
+.D2{
+	margin-left: 20px;
+    margin-right: 20px;
+}
+
+.D3{
+	border-radius:10%;
+	color:blue;
+	margin-bottom:20px
+}
+
+	/* FIN DU MENU DE DROITE + DESCRIPTION */
+	
+	/* DEBUT DU PHP/HTML */
+	
+.alignement{
+	float:left;
+	margin-top:50px;
+	margin-left:50px;
+}
+
+.boutonenvoi{
+    margin: 10px 0px 0px 50px;
+}

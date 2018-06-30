@@ -1,0 +1,135 @@
+﻿body {
+	background-image: url("../images/Espace1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+.titreprincipal {
+	background-color: rgba(255,255,255,0.7);
+    list-style-type: none;
+    margin: 0px 250px 0px 250px;
+    padding: 10px;
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0px; /* Position the navbar at the top of the page */
+	left:0px;
+	right:0px;
+	color:green;
+	text-align:center;
+    font-weight: bold;
+	border-radius:50%;
+}
+
+h3 {
+    display: inline-block;
+}
+
+
+div {
+    padding:30px;
+    margin: 0px 15px 0px 15px;
+    text-align: center;
+    border-radius: 25%;
+	}
+
+/* div:hover{ */
+	/* background-color: rgba(255,255,255,0.0); */
+	/* cursor:pointer; */
+/* } */
+	
+.principal {
+    text-align:center;
+    border:black 1px solid;
+	background-color: rgba(255,255,255,0.4);
+}
+
+.main1 {
+	border: 1px black solid;
+	display:inline-block;
+    width: 200px;
+	background-color: rgba(255,255,255,0.4);
+}
+
+.grandiv1 {
+}
+
+.grandiv2 {
+    
+}
+
+.div2{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div3{
+    border:black 1px solid;
+	width:40%;
+	display:inline-block;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div4{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div5{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div6{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div7{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div8{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div9{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div10{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.div11{
+    border:black 1px solid;
+	display:inline-block;
+	width:40%;
+	background-color: rgba(255,255,255,0.6);
+}
+
+
+/*DIV 4:
+    border:black 1px solid;
+	margin:auto;
+	width:60%;*/
